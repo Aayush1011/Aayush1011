@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aayush1011
 - 👀 I’m interested in everything related to programming.
-- 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on interesting projects.
 
 
