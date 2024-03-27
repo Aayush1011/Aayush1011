@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aayush1011
-- 👀 I’m curious everything related to programming.
-- 💞️ Looking to collaborate on exciting projects.
+- 👀 I’m curious about everything related to tech.
+- 💞️ Looking to collaborate on exciting computer vision projects.
 - 🖥️ Currently fascinated by: AWS and Docker.
 
 
